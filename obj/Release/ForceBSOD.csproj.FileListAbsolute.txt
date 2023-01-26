@@ -1,0 +1,11 @@
+D:\Software\Development\ForceBSOD\bin\Release\ForceBSOD.exe.config
+D:\Software\Development\ForceBSOD\bin\Release\ForceBSOD.exe
+D:\Software\Development\ForceBSOD\bin\Release\ForceBSOD.pdb
+D:\Software\Development\ForceBSOD\obj\Release\ForceBSOD.csproj.AssemblyReference.cache
+D:\Software\Development\ForceBSOD\obj\Release\ForceBSOD.csproj.SuggestedBindingRedirects.cache
+D:\Software\Development\ForceBSOD\obj\Release\ForceBSOD.Form1.resources
+D:\Software\Development\ForceBSOD\obj\Release\ForceBSOD.Properties.Resources.resources
+D:\Software\Development\ForceBSOD\obj\Release\ForceBSOD.csproj.GenerateResource.cache
+D:\Software\Development\ForceBSOD\obj\Release\ForceBSOD.csproj.CoreCompileInputs.cache
+D:\Software\Development\ForceBSOD\obj\Release\ForceBSOD.exe
+D:\Software\Development\ForceBSOD\obj\Release\ForceBSOD.pdb
