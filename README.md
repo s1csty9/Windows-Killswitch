@@ -1,11 +1,7 @@
-# ForceBSOD
-A program that makes your computer BSOD forcely and safely.
+# Windows Killswitch
+For when you want to kill windows for totally innocent purposes
 
-**Code difficulty:** Easy
-
-Some people might think it will kill **svchost.exe** or **csrss.exe** or **wininit.exe**. 
-But no, csrss.exe killing only works on Windows 7, wininit.exe killing only works on Windows 7/8/8.1, svchost.exe killing only works on Windows 10/11.
-This program compatible with any windows versions.
+I made this thing as a quick shortcut to kill windows on my school laptop in case I ever get caught lacking doing unrelated work by my teachers in class. To crash windows, you have to to have the script running in the background and you trigger the bsod by pressing Alt + F + 4 (make sure you press them at the same time and hold the keys if it isn't detected). It's brilliant how it works, really, and I'd have to credit that to GrumpBoatYT who I forked it from. Here's the original description.
 
 **How does it work?**
 This program generates BSOD very quietly and quickly.
@@ -15,8 +11,5 @@ Then, it will just kill itself using **taskkill.exe** and you will get **CRITICA
 
 **Is this safe?**
 Yes, you can run this program on your host machine.
+(s1csty9 note: it doesn't interfere with any system processes so it shouldn't cause damage when you trigger it)
 
-**How do I download this?**
-Go to **bin/release** then download the **ForceBSOD.exe**.
-
-**You can use this to prank your friends. But remember, you have to save their works or else you are a bad friend :)**
