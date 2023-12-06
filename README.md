@@ -11,5 +11,6 @@ Then, it will just kill itself using **taskkill.exe** and you will get **CRITICA
 
 **Is this safe?**
 Yes, you can run this program on your host machine.
+
 (s1csty9 note: it doesn't interfere with any system processes so it shouldn't cause damage when you trigger it)
 
